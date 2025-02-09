@@ -6,17 +6,17 @@ AskGenAI is an intelligent Q&amp;A system that leverages Generative AI, Pinecone
 
 Clone the repository
 ```bash
-- git clone https://github.com/anandreddy05/AskGenAI.git
+git clone https://github.com/anandreddy05/AskGenAI.git
 ```
 ## Create a virtual environment
 ```bash
-- python -m venv askVenv
+python -m venv askVenv
 ```
 ## activate the virtual environment
 ```bash
-- askVenv/Scripts/activate
+askVenv/Scripts/activate
 ```
 ### Install dependencies
 ```bash
-- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
